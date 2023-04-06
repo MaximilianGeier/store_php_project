@@ -1,0 +1,21 @@
+.store__subtitle {
+  text-align: center;
+}
+
+.store__product input,
+.store__product select {
+  width: 150px;
+  border: 1px solid #898989;
+}
+
+.store__product textarea {
+  resize: vertical;
+}
+
+.product__wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 20px 0 20px 0;
+  gap: 20px;
+}
+

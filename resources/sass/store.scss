@@ -1,0 +1,14 @@
+.store{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 30px;
+}
+
+
+.store__logo{
+    width: 150px;
+    height: 150px;
+    border-radius: 80px;
+}

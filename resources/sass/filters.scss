@@ -1,0 +1,42 @@
+.filters{
+    width: 100%;
+    background-color: #D9D9D9;
+    margin-top: 30px;
+    padding: 15px;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+    input, select{
+        border-radius: 20px;
+        border: 2px solid white;
+    }
+
+    input[name=price_from], input[name=price_to]{
+        width: 50px;
+    }
+
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+
+    input[type=number] {
+        -moz-appearance:textfield;
+    }
+}
+
+.standart_btn{
+    background-color: aliceblue;
+    margin-bottom: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+    p{
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

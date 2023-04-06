@@ -1,0 +1,17 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/filters.css": "/css/filters.css",
+    "/css/global.css": "/css/global.css",
+    "/css/login.css": "/css/login.css",
+    "/css/order.css": "/css/order.css",
+    "/css/ordering.css": "/css/ordering.css",
+    "/css/product.css": "/css/product.css",
+    "/css/productAdding.css": "/css/productAdding.css",
+    "/css/profile.css": "/css/profile.css",
+    "/css/reset.css": "/css/reset.css",
+    "/css/shoppingCart.css": "/css/shoppingCart.css",
+    "/css/signup.css": "/css/signup.css",
+    "/css/store.css": "/css/store.css",
+    "/css/style.css": "/css/style.css"
+}

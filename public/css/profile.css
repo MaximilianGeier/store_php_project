@@ -1,0 +1,35 @@
+.profile__error-msg {
+  color: red;
+}
+
+.profile__form {
+  width: 50%;
+  margin: 30px auto 0 auto;
+}
+
+.profile__form input[type=checkbox] {
+  margin-bottom: 20px;
+}
+
+.profile__form input[type=text],
+.profile__form input[type=password],
+.profile__form input[type=email] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+.profile__form input[type=text]:focus,
+.profile__form input[type=password]:focus,
+.profile__form input[type=email]:focus {
+  background-color: aliceblue;
+  outline: none;
+}
+
+.standart_btn {
+  margin-bottom: 20px;
+}
+
